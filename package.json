@@ -1,0 +1,29 @@
+{
+  "name": "tablesmith",
+  "version": "0.0.1",
+  "description": "This is a placeholder for future code.",
+  "main": "app.js",
+  "scripts": {
+    "build": "npm install",
+    "test": "node app.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopglobal/tables.git"
+  },
+  "keywords": [
+    "Tables",
+    "Js"
+  ],
+  "author": "Mark Allen Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shopglobal/tables/issues"
+  },
+  "homepage": "https://github.com/shopglobal/tables#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
